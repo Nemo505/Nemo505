@@ -1,4 +1,13 @@
-<h2 align="left">Hi 👋! </h2>
+<h2 align="left">Hey there! 👋 I'm Kazue, a passionate developer who loves crafting & bringing ideas to life through code. </h2>
+
+<p>
+
+- **Problem Solver**: I thrive on finding creative solutions to tough problems. If there's a roadblock, I'm the person who loves brainstorming until we find a way around it.
+
+- **Collaborative Spirit**: I firmly believe that the best results come from teamwork. I enjoy collaborating with other developers, designers, and stakeholders to create cohesive and impactful projects.
+
+- **Attention to Detail**: I'm meticulous about the quality of code and user experience. I take pride in writing clean, maintainable code that not only works well but also feels intuitive to users.
+</p>
 
 ###
 
@@ -8,7 +17,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/C4lCxC3_IgAAAAAj/%E5%BF%99%E3%81%97%E3%81%84-%E4%BB%95%E4%BA%8B.gif"  />
+<!-- <img align="right" height="150" src="https://media.tenor.com/-169fSymeTgAAAAj/anime-girl.gif"  /> -->
+<img align="right" height="150" src="https://media.tenor.com/rDhfhunjcRQAAAAj/nodders-nodding.gif"  />
 
 ###
 
@@ -41,7 +52,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
